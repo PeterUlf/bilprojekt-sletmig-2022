@@ -13,3 +13,12 @@ h2 {
 p {
   color: purple;
 }
+
+video {
+  inline-size: 100%;
+}
+
+header {
+  background: purple;
+  padding: 1rem;
+}
